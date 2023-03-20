@@ -16,7 +16,6 @@ Through the creation of this app, I learned how to use Dayjs and Local Storage t
 ## Table of Contents
 
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 
@@ -24,19 +23,19 @@ Through the creation of this app, I learned how to use Dayjs and Local Storage t
 
 To use this app, the user needs to follow the next simple steps:
 
-* Choose the desired hour and write down the appointment or note in the text area.
+* Choose the desired hour and write down the event in the text area.
 * Press down the save button, when this is done, a message will display saying it was saved into Local Storage.
 * When the user refreshes the site, the information will still be there.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Main page](./assets/main-page.png)
     ```
 
 ## License
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Angelina Huerta Cortés]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
