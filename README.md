@@ -28,7 +28,7 @@ To use this app, the user needs to follow the next simple steps:
 * When the user refreshes the site, the information will still be there.
 
     ```md
-    ![Main page](./assets/main-page.png)
+    ![Main page](/assets/main-page.png)
     ```
 
 ## License
