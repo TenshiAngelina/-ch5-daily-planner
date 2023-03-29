@@ -18,7 +18,6 @@ Through the creation of this app, I learned how to use Dayjs and Local Storage t
 - [Usage](#usage)
 - [License](#license)
 
-
 ## Usage
 
 To use this app, the user needs to follow the next simple steps:
@@ -27,15 +26,14 @@ To use this app, the user needs to follow the next simple steps:
 * Press down the save button, when this is done, a message will display saying it was saved into Local Storage.
 * When the user refreshes the site, the information will still be there.
 
-    ```md
+### Screenshots
     ![Main page](assets/main-page.png)
-    ```
 
 ## License
 
 MIT License
 
-Copyright (c) [2023] [Angelina Huerta Cortés]
+Copyright (c) [2023] [Angelina_Huerta_Cortés]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
